@@ -1,0 +1,13 @@
+div.productPage {
+  margin-bottom: 27px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+article.product {
+  margin-bottom: 30px;
+}
+
+.returnToProList {
+  font-size: small;
+}

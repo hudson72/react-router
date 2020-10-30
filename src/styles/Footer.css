@@ -1,0 +1,8 @@
+div.footer p {
+  font-size: small;
+  text-transform: capitalize;
+}
+
+div.footer span {
+  color: blue;
+}
